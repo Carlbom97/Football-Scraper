@@ -1,0 +1,128 @@
+Date,League,Country,HomeTeam,AwayTeam,fairHomeOdds,fairDrawOdds,fairAwayOdds,fairOverOdds,fairUnderOdds,fairBTTSOdds,fairnBTTSOdds
+2023-04-15,A-League,AUS,Western Sydney Wanderers FC,Melbourne Victory,2.36,3.49,3.45,2.67,1.6,2.3,1.77
+2023-04-15,K League 1,KOR,Suwon FC,Jeonbuk FC,5.45,4.93,1.63,1.54,2.85,1.67,2.5
+2023-04-15,2. Bundesliga,GER,1.FC Magdeburg,Sandhausen,1.96,4.15,4.04,1.75,2.33,1.72,2.38
+2023-04-15,Premier League,RUS,Dinamo Moscow,Nizhny Novgorod,1.92,4.25,4.08,1.82,2.22,1.78,2.27
+2023-04-15,League One,ENG,Exeter City,Plymouth Argyle,1.87,4.06,4.55,2.14,1.88,2.08,1.93
+2023-04-15,2. Bundesliga,GER,Holstein Kiel,1.FC Nürnberg,1.94,4.69,3.68,1.52,2.94,1.54,2.85
+2023-04-15,Premier League,RUS,Krylya Sovetov Samara,Khimki,1.42,6.98,6.6,1.18,6.57,1.34,3.91
+2023-04-15,2. Bundesliga,GER,Paderborn 07,Hansa Rostock,1.54,5.74,5.64,1.31,4.18,1.45,3.24
+2023-04-15,Premier League,ENG,Aston Villa,Newcastle United,1.99,3.94,4.12,2.17,1.86,2.02,1.98
+2023-04-15,League One,ENG,Cambridge United,Peterborough United,3.25,3.78,2.34,2.09,1.91,1.92,2.08
+2023-04-15,Premiership,SCO,Hibernian,Hearts,1.82,4.44,4.42,1.7,2.43,1.7,2.43
+2023-04-15,Championship,ENG,Sheffield United,Cardiff City,2.25,3.35,3.89,2.77,1.57,2.35,1.74
+2023-04-15,Super League,CHN,Wuhan Three Towns,Shanghai Port,1.76,4.6,4.69,1.59,2.7,1.65,2.54
+2023-04-15,Super League,CHN,Zhejiang Professional,Changchun Yatai,1.84,4.53,4.25,1.65,2.54,1.67,2.49
+2023-04-15,Serie B,ITA,Ascoli,Sudtirol,3.65,3.48,2.28,2.74,1.57,2.36,1.73
+2023-04-15,Serie B,ITA,Bari,Como,2.54,3.8,2.91,2.07,1.94,1.88,2.14
+2023-04-15,Serie B,ITA,Benevento,Reggina,4.26,3.17,2.22,3.75,1.36,3.05,1.49
+2023-04-15,Serie B,ITA,Cosenza,Cittadella,2.24,3.73,3.51,2.3,1.77,2.08,1.93
+2023-04-15,Serie B,ITA,Genoa,Perugia,2.21,3.32,4.05,3.18,1.46,2.7,1.59
+2023-04-15,Serie B,ITA,SPAL,Brescia,2.52,3.47,3.18,2.5,1.67,2.14,1.88
+2023-04-15,Serie B,ITA,Venezia,Palermo,2.0,4.04,3.98,2.04,1.96,1.93,2.08
+2023-04-15,LaLiga,ESP,Villarreal,Real Valladolid,1.3,6.51,13.48,1.82,2.22,2.6,1.62
+2023-04-15,Super League,CHN,Beijing Guoan,Meizhou Hakka,1.54,4.37,8.31,2.54,1.65,2.82,1.55
+2023-04-15,Super Lig,TUR,Adana Demirspor,Kasımpaşa,1.62,4.62,6.01,1.91,2.1,2.02,1.98
+2023-04-15,Serie A,ITA,Bologna,Milan,2.99,4.16,2.35,1.74,2.35,1.66,2.51
+2023-04-15,Ekstraklasa,POL,Cracovia,Radomiak Radom,2.06,3.69,4.09,2.48,1.67,2.23,1.81
+2023-04-15,Allsvenskan,SWE,Elfsborg,Brommapojkarna,1.63,5.38,4.95,1.26,4.86,1.36,3.77
+2023-04-15,Super Lig,TUR,Istanbulspor,Istanbul Başakşehir,3.71,3.45,2.27,2.73,1.58,2.35,1.74
+2023-04-15,Ligue 2,FRA,Metz,Bordeaux,2.63,3.06,3.41,3.79,1.36,2.91,1.52
+2023-04-15,Bundesliga,GER,1. FC Köln,Mainz 05,2.1,4.03,3.64,1.87,2.15,1.8,2.25
+2023-04-15,Bundesliga,GER,Bayern München,TSG Hoffenheim,1.22,8.9,14.04,1.29,4.42,1.75,2.33
+2023-04-15,Premier League,RUS,PFC Sochi,FC Krasnodar,1.85,5.31,3.68,1.32,4.14,1.39,3.59
+2023-04-15,Bundesliga,GER,RB Leipzig,FC Augsburg,1.39,6.58,7.79,1.31,4.2,1.54,2.85
+2023-04-15,Premier League,RUS,Ural,CSKA Moscow,3.06,3.48,2.59,2.51,1.66,2.13,1.89
+2023-04-15,Bundesliga,GER,VfB Stuttgart,Borussia Dortmund,2.41,4.68,2.7,1.35,3.83,1.36,3.77
+2023-04-15,League One,ENG,Accrington Stanley,Fleetwood Town,3.22,3.57,2.44,2.38,1.73,2.07,1.93
+2023-04-15,Championship,ENG,Blackpool,Wigan Athletic,3.09,2.98,2.94,3.95,1.34,2.98,1.5
+2023-04-15,League One,ENG,Bristol Rovers,Derby County,4.06,4.39,1.9,1.74,2.35,1.74,2.35
+2023-04-15,League One,ENG,Burton Albion,Sheffield Wednesday,2.36,3.69,3.27,2.33,1.75,2.09,1.92
+2023-04-15,League Two,ENG,Carlisle United,Northampton Town,1.7,3.97,6.27,2.57,1.64,2.57,1.64
+2023-04-15,Premier League,ENG,Chelsea,Brighton & Hove Albion,2.77,3.6,2.77,2.34,1.74,2.04,1.96
+2023-04-15,League Two,ENG,Crawley Town,Tranmere Rovers,2.59,3.6,2.98,2.37,1.73,2.08,1.93
+2023-04-15,League Two,ENG,Crewe Alexandra,Walsall,2.1,3.37,4.41,3.22,1.45,2.74,1.57
+2023-04-15,First Division A,BEL,Eupen,Zulte Waregem,2.02,4.83,3.36,1.44,3.29,1.46,3.17
+2023-04-15,Premier League,ENG,Everton,Fulham,2.17,3.81,3.61,2.25,1.8,2.06,1.94
+2023-04-15,League One,ENG,Forest Green Rovers,Barnsley,5.71,2.9,2.08,5.25,1.24,4.05,1.33
+2023-04-15,League Two,ENG,Gillingham,Stockport County,2.91,2.92,3.18,4.25,1.31,3.06,1.49
+2023-04-15,League Two,ENG,Grimsby Town,Mansfield Town,2.85,3.43,2.8,2.83,1.55,2.36,1.73
+2023-04-15,League Two,ENG,Harrogate Town,Doncaster Rovers,1.91,3.81,4.69,2.44,1.69,2.3,1.77
+2023-04-15,League One,ENG,Ipswich Town,Charlton Athletic,1.67,4.23,6.07,2.07,1.94,2.09,1.91
+2023-04-15,League One,ENG,Lincoln City,Port Vale,2.62,3.06,3.43,3.69,1.37,2.88,1.53
+2023-04-15,Premiership,SCO,Livingston,St. Johnstone,2.28,3.79,3.36,2.08,1.93,1.93,2.08
+2023-04-15,Championship,ENG,Millwall,Preston North End,2.64,3.46,3.01,2.59,1.63,2.25,1.8
+2023-04-15,League One,ENG,Milton Keynes Dons,Cheltenham Town,2.44,3.46,3.33,2.64,1.61,2.29,1.77
+2023-04-15,League One,ENG,Morecambe,Wycombe Wanderers,3.21,3.73,2.38,2.26,1.8,2.04,1.96
+2023-04-15,Premiership,SCO,Motherwell,Dundee United,2.56,3.38,3.19,2.87,1.54,2.4,1.71
+2023-04-15,League Two,ENG,Newport County,Hartlepool United,2.17,3.78,3.64,2.33,1.75,2.11,1.9
+2023-04-15,League One,ENG,Oxford United,Bolton Wanderers,2.27,3.98,3.25,1.83,2.2,1.73,2.38
+2023-04-15,Championship,ENG,Queens Park Rangers,Coventry City,6.59,4.25,1.63,2.35,1.74,2.48,1.67
+2023-04-15,Premiership,SCO,Rangers,St. Mirren,1.3,6.29,13.44,1.85,2.17,2.62,1.62
+2023-04-15,Championship,ENG,Reading,Burnley,2.56,3.64,2.99,2.17,1.86,1.94,2.06
+2023-04-15,League Two,ENG,Rochdale,Bradford City,3.11,3.63,2.48,2.32,1.76,2.06,1.94
+2023-04-15,Championship,ENG,Rotherham United,Luton Town,3.63,3.33,2.36,3.07,1.48,2.51,1.66
+2023-04-15,League Two,ENG,Salford City,Colchester United,2.03,4.11,3.79,1.89,2.12,1.81,2.23
+2023-04-15,League One,ENG,Shrewsbury Town,Portsmouth,2.26,4.09,3.2,1.93,2.07,1.82,2.22
+2023-04-15,Premier League,ENG,Southampton,Crystal Palace,2.91,3.44,2.73,2.67,1.6,2.29,1.78
+2023-04-15,League Two,ENG,Stevenage,AFC Wimbledon,1.92,3.96,4.42,2.17,1.86,2.06,1.94
+2023-04-15,Championship,ENG,Stoke City,West Bromwich Albion,2.09,3.39,4.4,3.07,1.48,2.67,1.6
+2023-04-15,Championship,ENG,Sunderland,Birmingham City,2.36,4.02,3.05,1.88,2.14,1.74,2.35
+2023-04-15,League Two,ENG,Sutton United,Leyton Orient,1.97,3.55,4.73,2.82,1.55,2.51,1.66
+2023-04-15,Championship,ENG,Swansea City,Huddersfield Town,1.95,4.48,3.77,1.65,2.53,1.66,2.52
+2023-04-15,League Two,ENG,Swindon Town,Barrow,2.18,3.77,3.63,2.25,1.8,2.07,1.93
+2023-04-15,Premier League,ENG,Tottenham Hotspur,AFC Bournemouth,1.83,4.36,4.48,1.84,2.19,1.86,2.17
+2023-04-15,Championship,ENG,Watford,Bristol City,2.01,3.84,4.13,2.12,1.89,1.99,2.01
+2023-04-15,Premier League,ENG,Wolverhampton Wanderers,Brentford,1.79,4.17,4.96,2.13,1.88,2.09,1.92
+2023-04-15,LaLiga,ESP,Athletic Club,Real Sociedad,3.14,3.27,2.67,3.0,1.5,2.44,1.7
+2023-04-15,Serie B,ITA,Cagliari,Frosinone,3.1,3.24,2.71,3.06,1.48,2.49,1.67
+2023-04-15,Liga Portugal,POR,Estoril,Portimonense,2.09,4.15,3.56,1.79,2.26,1.74,2.35
+2023-04-15,Liga Portugal,POR,Maritimo,Pacos de Ferreira,3.18,3.44,2.53,2.76,1.57,2.31,1.77
+2023-04-15,Bundesliga,AUT,Austria Lustenau,Wolfsberger AC,3.37,4.42,2.09,1.61,2.64,1.6,2.68
+2023-04-15,Bundesliga,AUT,Hartberg,Altach,3.5,3.8,2.22,2.22,1.82,2.01,1.99
+2023-04-15,HNL,CRO,Osijek,NK Lokomotiva,1.85,4.26,4.47,1.92,2.09,1.87,2.15
+2023-04-15,Ligue 1,FRA,Rennes,Reims,2.13,3.98,3.58,1.94,2.06,1.84,2.2
+2023-04-15,Allsvenskan,SWE,Häcken,Kalmar FF,1.84,4.87,3.99,1.51,2.95,1.56,2.78
+2023-04-15,Ekstraklasa,POL,Korona Kielce,Jagiellonia Bialystok,2.04,3.19,5.06,3.6,1.39,2.98,1.5
+2023-04-15,Serie A,ITA,Napoli,Hellas Verona,1.57,4.49,7.04,2.11,1.9,2.31,1.76
+2023-04-15,Super League,SUI,Servette,Lugano,2.42,3.61,3.23,2.26,1.79,2.03,1.97
+2023-04-15,Premier League,RUS,Torpedo Moscow,Spartak Moscow,5.05,5.27,1.63,1.39,3.54,1.5,3.0
+2023-04-15,Eliteserien,NOR,Viking,Lillestrøm,3.08,4.17,2.3,1.73,2.36,1.66,2.52
+2023-04-15,First Division A,BEL,Cercle Brugge,St.Truiden,2.4,3.74,3.18,2.16,1.86,1.96,2.04
+2023-04-15,First Division A,BEL,Oostende,OH Leuven,2.31,4.48,2.91,1.52,2.92,1.51,2.95
+2023-04-15,Bundesliga,GER,Eintracht Frankfurt,Borussia M Gladbach,2.11,4.36,3.38,1.64,2.56,1.62,2.62
+2023-04-15,Premier League,ENG,Manchester City,Leicester City,1.56,4.81,6.57,1.8,2.25,1.96,2.04
+2023-04-15,LaLiga,ESP,Real Betis,Espanyol,1.55,4.63,7.2,2.01,1.99,2.21,1.83
+2023-04-15,Eredivisie,NED,RKC Waalwijk,FC Groningen,1.83,4.52,4.28,1.72,2.38,1.75,2.33
+2023-04-15,Ligue 2,FRA,Caen,Paris FC,2.43,3.67,3.16,2.37,1.73,2.1,1.91
+2023-04-15,Liga Portugal,POR,Chaves,Benfica,5.43,4.96,1.63,1.72,2.39,1.85,2.17
+2023-04-15,Ligue 2,FRA,Guingamp,Amiens,2.49,3.83,2.97,2.06,1.95,1.9,2.12
+2023-04-15,Ligue 2,FRA,Nimes,Le Havre,2.53,3.34,3.26,2.82,1.55,2.37,1.73
+2023-04-15,Ligue 2,FRA,Quevilly,Dijon,2.02,3.81,4.14,2.26,1.8,2.05,1.95
+2023-04-15,Ligue 2,FRA,Rodez,Laval,2.14,3.24,4.47,3.49,1.4,2.89,1.53
+2023-04-15,Ligue 2,FRA,SC Bastia,Annecy FC,1.52,4.8,7.39,1.99,2.01,2.21,1.83
+2023-04-15,Ligue 2,FRA,Sochaux,Pau,1.72,3.94,6.02,2.39,1.72,2.39,1.72
+2023-04-15,Ligue 2,FRA,Valenciennes,Niort,1.85,3.86,5.0,2.46,1.68,2.31,1.76
+2023-04-15,HNL,CRO,Dinamo Zagreb,Slaven,1.15,8.62,73.53,2.29,1.77,9.75,1.11
+2023-04-15,Super Lig,TUR,Fenerbahçe,Ankaragücü,1.35,6.69,8.92,1.4,3.51,1.67,2.49
+2023-04-15,Ekstraklasa,POL,Lechia Gdansk,Pogon Szczecin,3.57,3.86,2.17,2.08,1.93,1.91,2.1
+2023-04-15,2. Bundesliga,GER,1.FC Kaiserslautern,Hamburger SV,1.97,4.8,3.53,1.43,3.3,1.47,3.13
+2023-04-15,Super League,SUI,Luzern,FC Zürich,2.9,3.99,2.47,1.74,2.35,1.65,2.53
+2023-04-15,Championship,ENG,Blackburn Rovers,Hull City,2.27,3.53,3.61,2.47,1.68,2.16,1.86
+2023-04-15,Serie A,ITA,Inter,Monza,1.73,4.45,5.09,1.94,2.07,1.97,2.03
+2023-04-15,First Division A,BEL,Westerlo,Club Brugge,2.21,4.52,3.06,1.56,2.79,1.55,2.81
+2023-04-15,LaLiga,ESP,Cadiz,Real Madrid,5.76,4.55,1.65,1.91,2.1,2.01,1.99
+2023-04-15,Ligue 1,FRA,Paris Saint-Germain,Lens,1.85,4.56,4.18,1.54,2.85,1.58,2.74
+2023-04-15,Eredivisie,NED,Sparta Rotterdam,SC Heerenveen,3.25,3.41,2.51,2.66,1.6,2.25,1.8
+2023-04-15,Primera Division,CHI,Universidad Catolica,Colo Colo,2.48,4.28,2.75,1.64,2.55,1.6,2.67
+2023-04-15,Liga Profesional,ARG,Defensa y Justicia,Instituto,1.87,4.09,4.5,2.0,2.0,1.94,2.06
+2023-04-15,Liga Portugal,POR,FC Porto,Santa Clara,1.31,5.8,14.93,2.16,1.86,3.24,1.45
+2023-04-15,Liga Profesional,ARG,Boca Juniors,Estudiantes,2.05,4.19,3.66,1.8,2.25,1.75,2.34
+2023-04-15,Liga MX,MEX,Atlas,Pachuca,4.7,4.55,1.76,1.75,2.33,1.8,2.26
+2023-04-15,Primera A,COL,Deportivo Cali,Union Magdalena,1.85,3.67,5.35,2.88,1.53,2.67,1.6
+2023-04-15,MLS,USA,CF Montreal,DC United,2.05,4.06,3.76,1.83,2.2,1.75,2.33
+2023-04-15,MLS,USA,Charlotte FC,Colorado Rapids,2.28,4.13,3.13,1.68,2.47,1.62,2.6
+2023-04-15,MLS,USA,Columbus Crew,New England Revolution,1.66,4.77,5.29,1.65,2.54,1.75,2.34
+2023-04-15,MLS,USA,New York City FC,Nashville SC,1.79,4.24,4.87,2.02,1.98,2.02,1.98
+2023-04-15,MLS,USA,New York Red Bulls,Houston Dynamo FC,2.05,3.67,4.17,2.45,1.69,2.22,1.82
+2023-04-15,MLS,USA,Toronto FC,Atlanta United,1.89,4.55,3.99,1.61,2.65,1.62,2.62
