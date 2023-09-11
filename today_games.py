@@ -57,7 +57,7 @@ start_game_url = "https://www.fotmob.com/api/matchDetails?matchId="
 
 today_games = []
 
-todays_date = "2023-04-15"
+todays_date = "2023-09-04"
 
 df = pd.DataFrame({'Date': pd.Series(dtype='str'),
                    'League': pd.Series(dtype='str'),

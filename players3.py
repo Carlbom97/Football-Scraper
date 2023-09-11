@@ -68,13 +68,6 @@ def get_starter_stats(id):
             home_goals.append(int(goals)/games)
             home_conceded.append(int(conceded)/games)
 
-            try:
-                file = open("Player_Stats/" + "string" + ".txt", "w")
-                file.write(player)
-                file.close()
-            except:
-                pass
-
         except:
             pass
 
