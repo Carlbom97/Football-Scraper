@@ -186,3 +186,14 @@ query = """
     )
 """
 call_db(query)
+
+query = """
+    CREATE TABLE IF NOT EXISTS Rem_Games (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        match_id int,
+        date DATE,
+        HomeTeam VARCHAR(255),
+        AwayTeam VARCHAR(255)
+    )
+"""
+call_db(query)
