@@ -18,7 +18,11 @@ delete_dublicate2 = """
 );
 """
 
-call_db(delete_dublicate2)
+delete_query = """
+    DELETE FROM Games WHERE id > 32587;
+"""
+
+call_db(delete_query)
 
 # call_db(delete_dublicate)
 

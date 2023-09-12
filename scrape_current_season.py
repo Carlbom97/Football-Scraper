@@ -132,13 +132,14 @@ for game_id in finished_games:
         """
         call_db(insert_team_query)
 
+
         
         for i in range(0,100):
             for j in range(0, 100):
                 try:
-                    stat_name = jasondata['content']['stats']['stats'][i]['stats'][j]['title']
-                    home_stat = jasondata['content']['stats']['stats'][i]['stats'][j]['stats'][0]
-                    away_stat = jasondata['content']['stats']['stats'][i]['stats'][j]['stats'][1]
+                    stat_name = jasondata['content']['stats']['Periods']['All']['stats'][i]['stats'][j]['key']
+                    home_stat = jasondata['content']['stats']['Periods']['All']['stats'][i]['stats'][j]['stats'][0]
+                    away_stat = jasondata['content']['stats']['Periods']['All']['stats'][i]['stats'][j]['stats'][1]
 
                     stats["Home" + stat_name.replace(" ","")] = home_stat
                     stats["Away" + stat_name.replace(" ","")] = away_stat
@@ -146,72 +147,72 @@ for game_id in finished_games:
                     pass
         
         try:
-            HomexG = stats['HomeExpectedgoals(xG)']
+            HomexG = stats['Homeexpected_goals']
         except:
             HomexG = "NULL"
 
         try:
-            AwayxG = stats['AwayExpectedgoals(xG)']
+            AwayxG = stats['Awayexpected_goals']
         except:
             AwayxG = "NULL"
 
         try:
-            HomePoss = stats['HomeBallpossession']
+            HomePoss = stats['HomeBallPossesion']
         except:
             HomePoss = "NULL"
 
         try:
-            AwayPoss = stats['AwayBallpossession']
+            AwayPoss = stats['AwayBallPossesion']
         except:
             AwayPoss = "NULL"
 
         try:
-            HomeShots = stats['HomeTotalshots']
+            HomeShots = stats['Hometotal_shots']
         except:
             HomeShots = "NULL"
 
         try:
-            AwayShots = stats['AwayTotalshots']
+            AwayShots = stats['Awaytotal_shots']
         except:
             AwayShots = "NULL"
 
         try:
-            HomeSonT = stats['HomeShotsontarget']
+            HomeSonT = stats['HomeShotsOnTarget']
         except:
             HomeSonT = "NULL"
 
         try:
-            AwaySonT = stats['AwayShotsontarget']
+            AwaySonT = stats['AwayShotsOnTarget']
         except:
             AwaySonT = "NULL"
 
         try:
-            HomeSoffT = stats['HomeShotsofftarget']
+            HomeSoffT = stats['HomeShotsOffTarget']
         except:
             HomeSoffT = "NULL"
 
         try:
-            AwaySoffT = stats['AwayShotsofftarget']
+            AwaySoffT = stats['AwayShotsOffTarget']
         except:
             AwaySoffT = "NULL"
 
         try:
-            HomeBS = stats['HomeBlockedshots']
+            HomeBS = stats['Homeblocked_shots']
         except:
             HomeBS = "NULL"
 
         try:
-            AwayBS = stats['AwayBlockedshots']
+            AwayBS = stats['Awayblocked_shots']
         except:
             AwayBS = "NULL"
 
         try:
-            HomeCor = stats['HomeCorners']
+            HomeCor = stats['Homecorners']
         except:
             HomeCor = "NULL"
 
         try:
-            AwayCor = stats['AwayCorners']
+            AwayCor = stats['Awaycorners']
         except:
             AwayCor = "NULL"
 
@@ -226,172 +227,172 @@ for game_id in finished_games:
             AwayOff = "NULL"
 
         try:
-            HomeFoul = stats['HomeFoulscommitted']
+            HomeFoul = stats['Homefouls']
         except:
             HomeFoul = "NULL"
 
         try:
-            AwayFoul = stats['AwayFoulscommitted']
+            AwayFoul = stats['Awayfouls']
         except:
             AwayFoul = "NULL"
 
         try:
-            HomeYellow = stats['HomeYellowcards']
+            HomeYellow = stats['Homeyellow_cards']
         except:
             HomeYellow = "NULL"
 
         try:
-            AwayYellow = stats['AwayYellowcards']
+            AwayYellow = stats['Awayyellow_cards']
         except:
             AwayYellow = "NULL"
 
         try:
-            HomeRed = stats['HomeRedcards']
+            HomeRed = stats['Homered_cards']
         except:
             HomeRed = "NULL"
 
         try:
-            AwayRed = stats['AwayRedcards']
+            AwayRed = stats['Awayred_cards']
         except:
             AwayRed = "NULL"
 
         try:
-            HomePass = stats['HomePasses']
+            HomePass = stats['Homepasses']
         except:
             HomePass = "NULL"
 
         try:
-            AwayPass = stats['AwayPasses']
+            AwayPass = stats['Awaypasses']
         except:
             AwayPass = "NULL"
 
         try:
-            HomeAccPass = stats['HomeAccuratepasses'].split(" ")[0]
+            HomeAccPass = stats['Homeaccurate_passes'].split(" ")[0]
         except:
             HomeAccPass = "NULL"
 
         try:
-            AwayAccPass = stats['AwayAccuratepasses'].split(" ")[0]
+            AwayAccPass = stats['Awayaccurate_passes'].split(" ")[0]
         except:
             AwayAccPass = "NULL"
 
         try:
-            HomePassOff = stats['HomeOppositionhalf']
+            HomePassOff = stats['Homeopposition_half_passes']
         except:
             HomePassOff = "NULL"
 
         try:
-            AwayPassOff = stats['AwayOppositionhalf']
+            AwayPassOff = stats['Awayopposition_half_passes']
         except:
             AwayPassOff = "NULL"
 
         try:
-            HomeAccLongB = stats['HomeAccuratelongballs'].split(" ")[0]
+            HomeAccLongB = stats['Homelong_balls_accurate'].split(" ")[0]
         except:
             HomeAccLongB = "NULL"
 
         try:
-            AwayAccLongB = stats['AwayAccuratelongballs'].split(" ")[0]
+            AwayAccLongB = stats['Awaylong_balls_accurate'].split(" ")[0]
         except:
             AwayAccLongB = "NULL"
 
         try:
-            HomeAccLongBpercent = stats['HomeAccuratelongballs'].split(" ")[1].replace("%","").replace("(","").replace(")","")
+            HomeAccLongBpercent = stats['Homelong_balls_accurate'].split(" ")[1].replace("%","").replace("(","").replace(")","")
         except:
             HomeAccLongBpercent = "NULL"
 
         try:
-            AwayAccLongBpercent = stats['AwayAccuratelongballs'].split(" ")[1].replace("%","").replace("(","").replace(")","")
+            AwayAccLongBpercent = stats['Awaylong_balls_accurate'].split(" ")[1].replace("%","").replace("(","").replace(")","")
         except:
             AwayAccLongBpercent = "NULL"
 
         try:
-            HomeAccCross = stats['HomeAccuratecrosses'].split(" ")[0]
+            HomeAccCross = stats['Homeaccurate_crosses'].split(" ")[0]
         except:
             HomeAccCross = "NULL"
 
         try:
-            AwayAccCross = stats['AwayAccuratecrosses'].split(" ")[0]
+            AwayAccCross = stats['Awayaccurate_crosses'].split(" ")[0]
         except:
             AwayAccCross = "NULL"
 
         try:
-            HomeAccCrosspercent = stats['HomeAccuratecrosses'].split(" ")[1].replace("%","").replace("(","").replace(")","")
+            HomeAccCrosspercent = stats['Homeaccurate_crosses'].split(" ")[1].replace("%","").replace("(","").replace(")","")
         except:
             HomeAccCrosspercent = "NULL"
 
         try:
-            AwayAccCrosspercent = stats['AwayAccuratecrosses'].split(" ")[1].replace("%","").replace("(","").replace(")","")
+            AwayAccCrosspercent = stats['Awayaccurate_crosses'].split(" ")[1].replace("%","").replace("(","").replace(")","")
         except:
             AwayAccCrosspercent = "NULL"
 
         try:
-            HomeSuccDribb = stats['HomeSuccessfuldribbles'].split(" ")[0]
+            HomeSuccDribb = stats['Homedribbles_succeeded'].split(" ")[0]
         except:
             HomeSuccDribb = "NULL"
 
         try:
-            AwaySuccDribb = stats['AwaySuccessfuldribbles'].split(" ")[0]
+            AwaySuccDribb = stats['Awaydribbles_succeeded'].split(" ")[0]
         except:
             AwaySuccDribb = "NULL"
 
         try:
-            HomeSuccDribbpercent = stats['HomeSuccessfuldribbles'].split(" ")[1].replace("%","").replace("(","").replace(")","")
+            HomeSuccDribbpercent = stats['Homedribbles_succeeded'].split(" ")[1].replace("%","").replace("(","").replace(")","")
         except:
             HomeSuccDribbpercent = "NULL"
 
         try:
-            AwaySuccDribbpercent = stats['AwaySuccessfuldribbles'].split(" ")[1].replace("%","").replace("(","").replace(")","")
+            AwaySuccDribbpercent = stats['Awaydribbles_succeeded'].split(" ")[1].replace("%","").replace("(","").replace(")","")
         except:
             AwaySuccDribbpercent = "NULL"
 
         try:
-            HomeDuelsW = stats['HomeDuelswon']
+            HomeDuelsW = stats['Homeduel_won']
         except:
             HomeDuelsW = "NULL"
 
         try:
-            AwayDuelsW = stats['AwayDuelswon']
+            AwayDuelsW = stats['Awayduel_won']
         except:
             AwayDuelsW = "NULL"
 
         try:
-            HomeTackW = stats['HomeTackleswon'].split(" ")[0]
+            HomeTackW = stats['Hometackles_succeeded'].split(" ")[0]
         except:
             HomeTackW = "NULL"
 
         try:
-            AwayTackW = stats['AwayTackleswon'].split(" ")[0]
+            AwayTackW = stats['Awaytackles_succeeded'].split(" ")[0]
         except:
             AwayTackW = "NULL"
         
         try:
-            HomeTackWpercent = stats['HomeTackleswon'].split(" ")[1].replace("%","").replace("(","").replace(")","")
+            HomeTackWpercent = stats['Hometackles_succeeded'].split(" ")[1].replace("%","").replace("(","").replace(")","")
         except:
             HomeTackWpercent = "NULL"
 
         try:
-            AwayTackWpercent = stats['AwayTackleswon'].split(" ")[1].replace("%","").replace("(","").replace(")","")
+            AwayTackWpercent = stats['Awaytackles_succeeded'].split(" ")[1].replace("%","").replace("(","").replace(")","")
         except:
             AwayTackWpercent = "NULL"
 
         try:
-            HomeInt = stats['HomeInterceptions']
+            HomeInt = stats['Homeinterceptions']
         except:
             HomeInt = "NULL"
 
         try:
-            AwayInt = stats['AwayInterceptions']
+            AwayInt = stats['Awayinterceptions']
         except:
             AwayInt = "NULL"
 
         try:
-            HomeClear = stats['HomeClearances']
+            HomeClear = stats['Homeclearances']
         except:
             HomeClear = "NULL"
 
         try:
-            AwayClear = stats['AwayClearances']
+            AwayClear = stats['Awayclearances']
         except:
             AwayClear = "NULL"
 
