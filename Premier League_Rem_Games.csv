@@ -1,0 +1,341 @@
+id,match_id,date,HomeTeam,AwayTeam
+305,4193509,2023-09-16,Wolverhampton Wanderers,Liverpool
+306,4193501,2023-09-16,Aston Villa,Crystal Palace
+307,4193503,2023-09-16,Fulham,Luton Town
+308,4193504,2023-09-16,Manchester United,Brighton & Hove Albion
+309,4193507,2023-09-16,Tottenham Hotspur,Sheffield United
+310,4193508,2023-09-16,West Ham United,Manchester City
+311,4193505,2023-09-16,Newcastle United,Brentford
+312,4193500,2023-09-17,AFC Bournemouth,Chelsea
+313,4193502,2023-09-17,Everton,Arsenal
+314,4193506,2023-09-18,Nottingham Forest,Burnley
+315,4193515,2023-09-23,Crystal Palace,Fulham
+316,4193517,2023-09-23,Luton Town,Wolverhampton Wanderers
+317,4193518,2023-09-23,Manchester City,Nottingham Forest
+318,4193511,2023-09-23,Brentford,Everton
+319,4193513,2023-09-23,Burnley,Manchester United
+320,4193510,2023-09-24,Arsenal,Tottenham Hotspur
+321,4193512,2023-09-24,Brighton & Hove Albion,AFC Bournemouth
+322,4193514,2023-09-24,Chelsea,Aston Villa
+323,4193516,2023-09-24,Liverpool,West Ham United
+324,4193519,2023-09-24,Sheffield United,Newcastle United
+325,4193521,2023-09-30,Aston Villa,Brighton & Hove Albion
+326,4193520,2023-09-30,AFC Bournemouth,Arsenal
+327,4193522,2023-09-30,Everton,Luton Town
+328,4193524,2023-09-30,Manchester United,Crystal Palace
+329,4193525,2023-09-30,Newcastle United,Burnley
+330,4193528,2023-09-30,West Ham United,Sheffield United
+331,4193529,2023-09-30,Wolverhampton Wanderers,Manchester City
+332,4193527,2023-09-30,Tottenham Hotspur,Liverpool
+333,4193526,2023-10-01,Nottingham Forest,Brentford
+334,4193523,2023-10-02,Fulham,Chelsea
+335,4193474,2023-10-03,Luton Town,Burnley
+336,4193536,2023-10-07,Luton Town,Tottenham Hotspur
+337,4193532,2023-10-07,Burnley,Chelsea
+338,4193534,2023-10-07,Everton,AFC Bournemouth
+339,4193535,2023-10-07,Fulham,Sheffield United
+340,4193537,2023-10-07,Manchester United,Brentford
+341,4193533,2023-10-07,Crystal Palace,Nottingham Forest
+342,4193531,2023-10-08,Brighton & Hove Albion,Liverpool
+343,4193538,2023-10-08,West Ham United,Newcastle United
+344,4193539,2023-10-08,Wolverhampton Wanderers,Aston Villa
+345,4193530,2023-10-08,Arsenal,Manchester City
+346,4193544,2023-10-21,Liverpool,Everton
+347,4193540,2023-10-21,AFC Bournemouth,Wolverhampton Wanderers
+348,4193542,2023-10-21,Brentford,Burnley
+349,4193545,2023-10-21,Manchester City,Brighton & Hove Albion
+350,4193546,2023-10-21,Newcastle United,Crystal Palace
+351,4193547,2023-10-21,Nottingham Forest,Luton Town
+352,4193543,2023-10-21,Chelsea,Arsenal
+353,4193548,2023-10-21,Sheffield United,Manchester United
+354,4193541,2023-10-22,Aston Villa,West Ham United
+355,4193549,2023-10-23,Tottenham Hotspur,Fulham
+356,4193555,2023-10-27,Crystal Palace,Tottenham Hotspur
+357,4193554,2023-10-28,Chelsea,Brentford
+358,4193550,2023-10-28,AFC Bournemouth,Burnley
+359,4193551,2023-10-28,Arsenal,Sheffield United
+360,4193559,2023-10-28,Wolverhampton Wanderers,Newcastle United
+361,4193558,2023-10-29,West Ham United,Everton
+362,4193552,2023-10-29,Aston Villa,Luton Town
+363,4193553,2023-10-29,Brighton & Hove Albion,Fulham
+364,4193556,2023-10-29,Liverpool,Nottingham Forest
+365,4193557,2023-10-29,Manchester United,Manchester City
+366,4193560,2023-11-04,Brentford,West Ham United
+367,4193561,2023-11-04,Burnley,Crystal Palace
+368,4193562,2023-11-04,Everton,Brighton & Hove Albion
+369,4193563,2023-11-04,Fulham,Manchester United
+370,4193564,2023-11-04,Luton Town,Liverpool
+371,4193565,2023-11-04,Manchester City,AFC Bournemouth
+372,4193566,2023-11-04,Newcastle United,Arsenal
+373,4193567,2023-11-04,Nottingham Forest,Aston Villa
+374,4193568,2023-11-04,Sheffield United,Wolverhampton Wanderers
+375,4193569,2023-11-04,Tottenham Hotspur,Chelsea
+376,4193570,2023-11-11,AFC Bournemouth,Newcastle United
+377,4193571,2023-11-11,Arsenal,Burnley
+378,4193572,2023-11-11,Aston Villa,Fulham
+379,4193573,2023-11-11,Brighton & Hove Albion,Sheffield United
+380,4193574,2023-11-11,Chelsea,Manchester City
+381,4193575,2023-11-11,Crystal Palace,Everton
+382,4193576,2023-11-11,Liverpool,Brentford
+383,4193577,2023-11-11,Manchester United,Luton Town
+384,4193578,2023-11-11,West Ham United,Nottingham Forest
+385,4193579,2023-11-11,Wolverhampton Wanderers,Tottenham Hotspur
+386,4193651,2023-11-25,Brentford,Arsenal
+387,4193652,2023-11-25,Burnley,West Ham United
+388,4193653,2023-11-25,Everton,Manchester United
+389,4193654,2023-11-25,Fulham,Wolverhampton Wanderers
+390,4193655,2023-11-25,Luton Town,Crystal Palace
+391,4193656,2023-11-25,Manchester City,Liverpool
+392,4193657,2023-11-25,Newcastle United,Chelsea
+393,4193658,2023-11-25,Nottingham Forest,Brighton & Hove Albion
+394,4193659,2023-11-25,Sheffield United,AFC Bournemouth
+395,4193660,2023-11-25,Tottenham Hotspur,Aston Villa
+396,4193661,2023-12-02,AFC Bournemouth,Aston Villa
+397,4193662,2023-12-02,Arsenal,Wolverhampton Wanderers
+398,4193663,2023-12-02,Brentford,Luton Town
+399,4193664,2023-12-02,Burnley,Sheffield United
+400,4193665,2023-12-02,Chelsea,Brighton & Hove Albion
+401,4193666,2023-12-02,Liverpool,Fulham
+402,4193667,2023-12-02,Manchester City,Tottenham Hotspur
+403,4193668,2023-12-02,Newcastle United,Manchester United
+404,4193669,2023-12-02,Nottingham Forest,Everton
+405,4193670,2023-12-02,West Ham United,Crystal Palace
+406,4193671,2023-12-05,Aston Villa,Manchester City
+407,4193672,2023-12-05,Brighton & Hove Albion,Brentford
+408,4193673,2023-12-05,Everton,Newcastle United
+409,4193674,2023-12-05,Fulham,Nottingham Forest
+410,4193675,2023-12-05,Luton Town,Arsenal
+411,4193676,2023-12-05,Sheffield United,Liverpool
+412,4193677,2023-12-05,Tottenham Hotspur,West Ham United
+413,4193678,2023-12-05,Wolverhampton Wanderers,Burnley
+414,4193679,2023-12-05,Crystal Palace,AFC Bournemouth
+415,4193680,2023-12-06,Manchester United,Chelsea
+416,4193681,2023-12-09,Aston Villa,Arsenal
+417,4193682,2023-12-09,Brighton & Hove Albion,Burnley
+418,4193683,2023-12-09,Crystal Palace,Liverpool
+419,4193684,2023-12-09,Everton,Chelsea
+420,4193685,2023-12-09,Fulham,West Ham United
+421,4193686,2023-12-09,Luton Town,Manchester City
+422,4193687,2023-12-09,Manchester United,AFC Bournemouth
+423,4193688,2023-12-09,Sheffield United,Brentford
+424,4193689,2023-12-09,Tottenham Hotspur,Newcastle United
+425,4193690,2023-12-09,Wolverhampton Wanderers,Nottingham Forest
+426,4193691,2023-12-16,AFC Bournemouth,Luton Town
+427,4193692,2023-12-16,Arsenal,Brighton & Hove Albion
+428,4193693,2023-12-16,Brentford,Aston Villa
+429,4193694,2023-12-16,Burnley,Everton
+430,4193695,2023-12-16,Chelsea,Sheffield United
+431,4193696,2023-12-16,Liverpool,Manchester United
+432,4193697,2023-12-16,Manchester City,Crystal Palace
+433,4193698,2023-12-16,Newcastle United,Fulham
+434,4193699,2023-12-16,Nottingham Forest,Tottenham Hotspur
+435,4193700,2023-12-16,West Ham United,Wolverhampton Wanderers
+436,4193701,2023-12-23,Aston Villa,Sheffield United
+437,4193702,2023-12-23,Crystal Palace,Brighton & Hove Albion
+438,4193703,2023-12-23,Fulham,Burnley
+439,4193704,2023-12-23,Liverpool,Arsenal
+440,4193705,2023-12-23,Luton Town,Newcastle United
+441,4193707,2023-12-23,Nottingham Forest,AFC Bournemouth
+442,4193708,2023-12-23,Tottenham Hotspur,Everton
+443,4193709,2023-12-23,West Ham United,Manchester United
+444,4193710,2023-12-23,Wolverhampton Wanderers,Chelsea
+445,4193711,2023-12-26,AFC Bournemouth,Fulham
+446,4193712,2023-12-26,Arsenal,West Ham United
+447,4193713,2023-12-26,Brentford,Wolverhampton Wanderers
+448,4193714,2023-12-26,Brighton & Hove Albion,Tottenham Hotspur
+449,4193715,2023-12-26,Burnley,Liverpool
+450,4193716,2023-12-26,Chelsea,Crystal Palace
+451,4193717,2023-12-26,Everton,Manchester City
+452,4193718,2023-12-26,Manchester United,Aston Villa
+453,4193719,2023-12-26,Newcastle United,Nottingham Forest
+454,4193720,2023-12-26,Sheffield United,Luton Town
+455,4193721,2023-12-30,Aston Villa,Burnley
+456,4193722,2023-12-30,Crystal Palace,Brentford
+457,4193723,2023-12-30,Fulham,Arsenal
+458,4193724,2023-12-30,Liverpool,Newcastle United
+459,4193725,2023-12-30,Luton Town,Chelsea
+460,4193726,2023-12-30,Manchester City,Sheffield United
+461,4193727,2023-12-30,Nottingham Forest,Manchester United
+462,4193728,2023-12-30,Tottenham Hotspur,AFC Bournemouth
+463,4193729,2023-12-30,West Ham United,Brighton & Hove Albion
+464,4193730,2023-12-30,Wolverhampton Wanderers,Everton
+465,4193731,2024-01-13,AFC Bournemouth,Liverpool
+466,4193732,2024-01-13,Arsenal,Crystal Palace
+467,4193733,2024-01-13,Brentford,Nottingham Forest
+468,4193734,2024-01-13,Brighton & Hove Albion,Wolverhampton Wanderers
+469,4193735,2024-01-13,Burnley,Luton Town
+470,4193736,2024-01-13,Chelsea,Fulham
+471,4193737,2024-01-13,Everton,Aston Villa
+472,4193738,2024-01-13,Manchester United,Tottenham Hotspur
+473,4193739,2024-01-13,Newcastle United,Manchester City
+474,4193740,2024-01-13,Sheffield United,West Ham United
+475,4193741,2024-01-30,Aston Villa,Newcastle United
+476,4193742,2024-01-30,Fulham,Everton
+477,4193743,2024-01-30,Luton Town,Brighton & Hove Albion
+478,4193744,2024-01-30,Nottingham Forest,Arsenal
+479,4193745,2024-01-30,Tottenham Hotspur,Brentford
+480,4193746,2024-01-30,West Ham United,AFC Bournemouth
+481,4193747,2024-01-30,Wolverhampton Wanderers,Manchester United
+482,4193748,2024-01-30,Crystal Palace,Sheffield United
+483,4193749,2024-01-31,Liverpool,Chelsea
+484,4193750,2024-01-31,Manchester City,Burnley
+485,4193751,2024-02-03,AFC Bournemouth,Nottingham Forest
+486,4193752,2024-02-03,Arsenal,Liverpool
+487,4193753,2024-02-03,Brentford,Manchester City
+488,4193754,2024-02-03,Brighton & Hove Albion,Crystal Palace
+489,4193755,2024-02-03,Burnley,Fulham
+490,4193756,2024-02-03,Chelsea,Wolverhampton Wanderers
+491,4193757,2024-02-03,Everton,Tottenham Hotspur
+492,4193758,2024-02-03,Manchester United,West Ham United
+493,4193759,2024-02-03,Newcastle United,Luton Town
+494,4193760,2024-02-03,Sheffield United,Aston Villa
+495,4193761,2024-02-10,Aston Villa,Manchester United
+496,4193762,2024-02-10,Crystal Palace,Chelsea
+497,4193763,2024-02-10,Fulham,AFC Bournemouth
+498,4193764,2024-02-10,Liverpool,Burnley
+499,4193765,2024-02-10,Luton Town,Sheffield United
+500,4193766,2024-02-10,Manchester City,Everton
+501,4193767,2024-02-10,Nottingham Forest,Newcastle United
+502,4193768,2024-02-10,Tottenham Hotspur,Brighton & Hove Albion
+503,4193769,2024-02-10,West Ham United,Arsenal
+504,4193770,2024-02-10,Wolverhampton Wanderers,Brentford
+505,4193771,2024-02-17,Brentford,Liverpool
+506,4193772,2024-02-17,Burnley,Arsenal
+507,4193773,2024-02-17,Everton,Crystal Palace
+508,4193774,2024-02-17,Fulham,Aston Villa
+509,4193775,2024-02-17,Luton Town,Manchester United
+510,4193776,2024-02-17,Manchester City,Chelsea
+511,4193777,2024-02-17,Newcastle United,AFC Bournemouth
+512,4193778,2024-02-17,Nottingham Forest,West Ham United
+513,4193779,2024-02-17,Sheffield United,Brighton & Hove Albion
+514,4193780,2024-02-17,Tottenham Hotspur,Wolverhampton Wanderers
+515,4193781,2024-02-24,AFC Bournemouth,Manchester City
+516,4193782,2024-02-24,Arsenal,Newcastle United
+517,4193783,2024-02-24,Aston Villa,Nottingham Forest
+518,4193784,2024-02-24,Brighton & Hove Albion,Everton
+519,4193785,2024-02-24,Chelsea,Tottenham Hotspur
+520,4193786,2024-02-24,Crystal Palace,Burnley
+521,4193787,2024-02-24,Liverpool,Luton Town
+522,4193788,2024-02-24,Manchester United,Fulham
+523,4193789,2024-02-24,West Ham United,Brentford
+524,4193790,2024-02-24,Wolverhampton Wanderers,Sheffield United
+525,4193791,2024-03-02,Brentford,Chelsea
+526,4193792,2024-03-02,Burnley,AFC Bournemouth
+527,4193793,2024-03-02,Everton,West Ham United
+528,4193794,2024-03-02,Fulham,Brighton & Hove Albion
+529,4193795,2024-03-02,Luton Town,Aston Villa
+530,4193796,2024-03-02,Manchester City,Manchester United
+531,4193797,2024-03-02,Newcastle United,Wolverhampton Wanderers
+532,4193798,2024-03-02,Nottingham Forest,Liverpool
+533,4193799,2024-03-02,Sheffield United,Arsenal
+534,4193800,2024-03-02,Tottenham Hotspur,Crystal Palace
+535,4193801,2024-03-09,AFC Bournemouth,Sheffield United
+536,4193802,2024-03-09,Arsenal,Brentford
+537,4193803,2024-03-09,Aston Villa,Tottenham Hotspur
+538,4193804,2024-03-09,Brighton & Hove Albion,Nottingham Forest
+539,4193805,2024-03-09,Chelsea,Newcastle United
+540,4193806,2024-03-09,Crystal Palace,Luton Town
+541,4193807,2024-03-09,Liverpool,Manchester City
+542,4193808,2024-03-09,Manchester United,Everton
+543,4193809,2024-03-09,West Ham United,Burnley
+544,4193810,2024-03-09,Wolverhampton Wanderers,Fulham
+545,4193811,2024-03-16,Arsenal,Chelsea
+546,4193812,2024-03-16,Brighton & Hove Albion,Manchester City
+547,4193813,2024-03-16,Burnley,Brentford
+548,4193814,2024-03-16,Crystal Palace,Newcastle United
+549,4193815,2024-03-16,Everton,Liverpool
+550,4193816,2024-03-16,Fulham,Tottenham Hotspur
+551,4193817,2024-03-16,Luton Town,Nottingham Forest
+552,4193818,2024-03-16,Manchester United,Sheffield United
+553,4193819,2024-03-16,West Ham United,Aston Villa
+554,4193820,2024-03-16,Wolverhampton Wanderers,AFC Bournemouth
+555,4193821,2024-03-30,AFC Bournemouth,Everton
+556,4193822,2024-03-30,Aston Villa,Wolverhampton Wanderers
+557,4193823,2024-03-30,Brentford,Manchester United
+558,4193824,2024-03-30,Chelsea,Burnley
+559,4193825,2024-03-30,Liverpool,Brighton & Hove Albion
+560,4193826,2024-03-30,Manchester City,Arsenal
+561,4193827,2024-03-30,Newcastle United,West Ham United
+562,4193828,2024-03-30,Nottingham Forest,Crystal Palace
+563,4193829,2024-03-30,Sheffield United,Fulham
+564,4193830,2024-03-30,Tottenham Hotspur,Luton Town
+565,4193831,2024-04-02,AFC Bournemouth,Crystal Palace
+566,4193832,2024-04-02,Arsenal,Luton Town
+567,4193833,2024-04-02,Brentford,Brighton & Hove Albion
+568,4193834,2024-04-02,Burnley,Wolverhampton Wanderers
+569,4193835,2024-04-02,Nottingham Forest,Fulham
+570,4193836,2024-04-02,West Ham United,Tottenham Hotspur
+571,4193837,2024-04-03,Chelsea,Manchester United
+572,4193838,2024-04-03,Newcastle United,Everton
+573,4193839,2024-04-03,Liverpool,Sheffield United
+574,4193840,2024-04-03,Manchester City,Aston Villa
+575,4193841,2024-04-06,Aston Villa,Brentford
+576,4193842,2024-04-06,Brighton & Hove Albion,Arsenal
+577,4193843,2024-04-06,Crystal Palace,Manchester City
+578,4193844,2024-04-06,Everton,Burnley
+579,4193845,2024-04-06,Fulham,Newcastle United
+580,4193846,2024-04-06,Luton Town,AFC Bournemouth
+581,4193847,2024-04-06,Manchester United,Liverpool
+582,4193848,2024-04-06,Sheffield United,Chelsea
+583,4193849,2024-04-06,Tottenham Hotspur,Nottingham Forest
+584,4193850,2024-04-06,Wolverhampton Wanderers,West Ham United
+585,4193851,2024-04-13,AFC Bournemouth,Manchester United
+586,4193852,2024-04-13,Arsenal,Aston Villa
+587,4193853,2024-04-13,Brentford,Sheffield United
+588,4193854,2024-04-13,Burnley,Brighton & Hove Albion
+589,4193855,2024-04-13,Chelsea,Everton
+590,4193856,2024-04-13,Liverpool,Crystal Palace
+591,4193857,2024-04-13,Manchester City,Luton Town
+592,4193858,2024-04-13,Newcastle United,Tottenham Hotspur
+593,4193859,2024-04-13,Nottingham Forest,Wolverhampton Wanderers
+594,4193860,2024-04-13,West Ham United,Fulham
+595,4193861,2024-04-20,Aston Villa,AFC Bournemouth
+596,4193862,2024-04-20,Brighton & Hove Albion,Chelsea
+597,4193863,2024-04-20,Crystal Palace,West Ham United
+598,4193864,2024-04-20,Everton,Nottingham Forest
+599,4193865,2024-04-20,Fulham,Liverpool
+600,4193866,2024-04-20,Luton Town,Brentford
+601,4193867,2024-04-20,Manchester United,Newcastle United
+602,4193868,2024-04-20,Sheffield United,Burnley
+603,4193869,2024-04-20,Tottenham Hotspur,Manchester City
+604,4193870,2024-04-20,Wolverhampton Wanderers,Arsenal
+605,4193871,2024-04-27,AFC Bournemouth,Brighton & Hove Albion
+606,4193872,2024-04-27,Aston Villa,Chelsea
+607,4193873,2024-04-27,Everton,Brentford
+608,4193874,2024-04-27,Fulham,Crystal Palace
+609,4193875,2024-04-27,Manchester United,Burnley
+610,4193876,2024-04-27,Newcastle United,Sheffield United
+611,4193877,2024-04-27,Nottingham Forest,Manchester City
+612,4193878,2024-04-27,Tottenham Hotspur,Arsenal
+613,4193879,2024-04-27,West Ham United,Liverpool
+614,4193880,2024-04-27,Wolverhampton Wanderers,Luton Town
+615,4193881,2024-05-04,Arsenal,AFC Bournemouth
+616,4193882,2024-05-04,Brentford,Fulham
+617,4193883,2024-05-04,Brighton & Hove Albion,Aston Villa
+618,4193884,2024-05-04,Burnley,Newcastle United
+619,4193885,2024-05-04,Chelsea,West Ham United
+620,4193886,2024-05-04,Crystal Palace,Manchester United
+621,4193887,2024-05-04,Liverpool,Tottenham Hotspur
+622,4193888,2024-05-04,Luton Town,Everton
+623,4193889,2024-05-04,Manchester City,Wolverhampton Wanderers
+624,4193890,2024-05-04,Sheffield United,Nottingham Forest
+625,4193891,2024-05-11,AFC Bournemouth,Brentford
+626,4193892,2024-05-11,Aston Villa,Liverpool
+627,4193893,2024-05-11,Everton,Sheffield United
+628,4193894,2024-05-11,Fulham,Manchester City
+629,4193895,2024-05-11,Manchester United,Arsenal
+630,4193896,2024-05-11,Newcastle United,Brighton & Hove Albion
+631,4193897,2024-05-11,Nottingham Forest,Chelsea
+632,4193898,2024-05-11,Tottenham Hotspur,Burnley
+633,4193899,2024-05-11,West Ham United,Luton Town
+634,4193900,2024-05-11,Wolverhampton Wanderers,Crystal Palace
+635,4193901,2024-05-19,Arsenal,Everton
+636,4193902,2024-05-19,Brentford,Newcastle United
+637,4193903,2024-05-19,Brighton & Hove Albion,Manchester United
+638,4193904,2024-05-19,Burnley,Nottingham Forest
+639,4193905,2024-05-19,Chelsea,AFC Bournemouth
+640,4193906,2024-05-19,Crystal Palace,Aston Villa
+641,4193907,2024-05-19,Liverpool,Wolverhampton Wanderers
+642,4193908,2024-05-19,Luton Town,Fulham
+643,4193909,2024-05-19,Manchester City,West Ham United
+644,4193910,2024-05-19,Sheffield United,Tottenham Hotspur

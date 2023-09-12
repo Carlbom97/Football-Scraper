@@ -1,65 +1,65 @@
 id,match_id,date,HomeTeam,AwayTeam
-1,4074566,2023-09-16,IFK Göteborg,Brommapojkarna
-2,4074534,2023-09-16,Sirius,Varbergs BoIS FC
-3,4074564,2023-09-16,Djurgården,IFK Värnamo
-4,4074565,2023-09-17,Hammarby,Malmö FF
-5,4074551,2023-09-17,Elfsborg,Kalmar FF
-6,4074550,2023-09-17,Häcken,Halmstads BK
-7,4074567,2023-09-18,IFK Norrköping,Mjällby
-8,4074563,2023-09-18,AIK,Degerfors
-9,4074541,2023-09-23,Degerfors,Malmö FF
-10,4074540,2023-09-23,Brommapojkarna,IFK Norrköping
-11,4074535,2023-09-24,AIK,Djurgården
-12,4074538,2023-09-24,Mjällby,IFK Göteborg
-13,4074537,2023-09-24,Kalmar FF,Häcken
-14,4074542,2023-09-24,Varbergs BoIS FC,Hammarby
-15,4074536,2023-09-25,Halmstads BK,Elfsborg
-16,4074539,2023-09-25,IFK Värnamo,Sirius
-17,4074543,2023-09-30,Djurgården,Halmstads BK
-18,4074546,2023-09-30,IFK Norrköping,Kalmar FF
-19,4074548,2023-10-01,Häcken,AIK
-20,4074549,2023-10-01,Sirius,Degerfors
-21,4074544,2023-10-01,Hammarby,IFK Göteborg
-22,4074568,2023-10-01,Mjällby,IFK Värnamo
-23,4074547,2023-10-02,Elfsborg,Varbergs BoIS FC
-24,4074545,2023-10-02,Malmö FF,Brommapojkarna
-25,4074569,2023-10-07,AIK,Mjällby
-26,4074595,2023-10-07,Halmstads BK,Degerfors
-27,4074596,2023-10-07,IFK Göteborg,Sirius
-28,4074592,2023-10-08,Brommapojkarna,Elfsborg
-29,4074593,2023-10-08,IFK Värnamo,IFK Norrköping
-30,4074594,2023-10-08,Kalmar FF,Malmö FF
-31,4074597,2023-10-08,Hammarby,Häcken
-32,4074591,2023-10-08,Varbergs BoIS FC,Djurgården
-33,4074603,2023-10-21,Degerfors,Kalmar FF
-34,4074605,2023-10-21,Sirius,Brommapojkarna
-35,4074590,2023-10-22,Djurgården,Hammarby
-36,4074606,2023-10-22,Halmstads BK,Mjällby
-37,4074607,2023-10-22,Häcken,IFK Norrköping
-38,4074598,2023-10-22,Malmö FF,Varbergs BoIS FC
-39,4074604,2023-10-23,IFK Värnamo,IFK Göteborg
-40,4074599,2023-10-23,Elfsborg,AIK
-41,4074576,2023-10-28,Brommapojkarna,Djurgården
-42,4074575,2023-10-28,Varbergs BoIS FC,Degerfors
-43,4074589,2023-10-29,IFK Norrköping,Malmö FF
-44,4074588,2023-10-29,Kalmar FF,IFK Värnamo
-45,4074577,2023-10-29,Mjällby,Häcken
-46,4074602,2023-10-29,AIK,Halmstads BK
-47,4074601,2023-10-30,Hammarby,Sirius
-48,4074600,2023-10-30,IFK Göteborg,Elfsborg
-49,4074587,2023-11-04,IFK Värnamo,Hammarby
-50,4074574,2023-11-04,Djurgården,Sirius
-51,4074570,2023-11-05,Häcken,Malmö FF
-52,4074578,2023-11-05,Halmstads BK,Kalmar FF
-53,4074571,2023-11-05,Elfsborg,Degerfors
-54,4074579,2023-11-05,Mjällby,Brommapojkarna
-55,4074572,2023-11-06,IFK Norrköping,Varbergs BoIS FC
-56,4074573,2023-11-06,IFK Göteborg,AIK
-57,4074586,2023-11-12,AIK,IFK Värnamo
-58,4074581,2023-11-12,Brommapojkarna,Häcken
-59,4074580,2023-11-12,Degerfors,Mjällby
-60,4074585,2023-11-12,Hammarby,Halmstads BK
-61,4074582,2023-11-12,Kalmar FF,Djurgården
-62,4074584,2023-11-12,Malmö FF,Elfsborg
-63,4074583,2023-11-12,Sirius,IFK Norrköping
-64,4074608,2023-11-12,Varbergs BoIS FC,IFK Göteborg
+177,4074566,2023-09-16,IFK Göteborg,Brommapojkarna
+178,4074534,2023-09-16,Sirius,Varbergs BoIS FC
+179,4074564,2023-09-16,Djurgården,IFK Värnamo
+180,4074565,2023-09-17,Hammarby,Malmö FF
+181,4074551,2023-09-17,Elfsborg,Kalmar FF
+182,4074550,2023-09-17,Häcken,Halmstads BK
+183,4074567,2023-09-18,IFK Norrköping,Mjällby
+184,4074563,2023-09-18,AIK,Degerfors
+185,4074541,2023-09-23,Degerfors,Malmö FF
+186,4074540,2023-09-23,Brommapojkarna,IFK Norrköping
+187,4074535,2023-09-24,AIK,Djurgården
+188,4074538,2023-09-24,Mjällby,IFK Göteborg
+189,4074537,2023-09-24,Kalmar FF,Häcken
+190,4074542,2023-09-24,Varbergs BoIS FC,Hammarby
+191,4074536,2023-09-25,Halmstads BK,Elfsborg
+192,4074539,2023-09-25,IFK Värnamo,Sirius
+193,4074543,2023-09-30,Djurgården,Halmstads BK
+194,4074546,2023-09-30,IFK Norrköping,Kalmar FF
+195,4074548,2023-10-01,Häcken,AIK
+196,4074549,2023-10-01,Sirius,Degerfors
+197,4074544,2023-10-01,Hammarby,IFK Göteborg
+198,4074568,2023-10-01,Mjällby,IFK Värnamo
+199,4074547,2023-10-02,Elfsborg,Varbergs BoIS FC
+200,4074545,2023-10-02,Malmö FF,Brommapojkarna
+201,4074569,2023-10-07,AIK,Mjällby
+202,4074595,2023-10-07,Halmstads BK,Degerfors
+203,4074596,2023-10-07,IFK Göteborg,Sirius
+204,4074592,2023-10-08,Brommapojkarna,Elfsborg
+205,4074593,2023-10-08,IFK Värnamo,IFK Norrköping
+206,4074594,2023-10-08,Kalmar FF,Malmö FF
+207,4074597,2023-10-08,Hammarby,Häcken
+208,4074591,2023-10-08,Varbergs BoIS FC,Djurgården
+209,4074603,2023-10-21,Degerfors,Kalmar FF
+210,4074605,2023-10-21,Sirius,Brommapojkarna
+211,4074590,2023-10-22,Djurgården,Hammarby
+212,4074606,2023-10-22,Halmstads BK,Mjällby
+213,4074607,2023-10-22,Häcken,IFK Norrköping
+214,4074598,2023-10-22,Malmö FF,Varbergs BoIS FC
+215,4074604,2023-10-23,IFK Värnamo,IFK Göteborg
+216,4074599,2023-10-23,Elfsborg,AIK
+217,4074576,2023-10-28,Brommapojkarna,Djurgården
+218,4074575,2023-10-28,Varbergs BoIS FC,Degerfors
+219,4074589,2023-10-29,IFK Norrköping,Malmö FF
+220,4074588,2023-10-29,Kalmar FF,IFK Värnamo
+221,4074577,2023-10-29,Mjällby,Häcken
+222,4074602,2023-10-29,AIK,Halmstads BK
+223,4074601,2023-10-30,Hammarby,Sirius
+224,4074600,2023-10-30,IFK Göteborg,Elfsborg
+225,4074587,2023-11-04,IFK Värnamo,Hammarby
+226,4074574,2023-11-04,Djurgården,Sirius
+227,4074570,2023-11-05,Häcken,Malmö FF
+228,4074578,2023-11-05,Halmstads BK,Kalmar FF
+229,4074571,2023-11-05,Elfsborg,Degerfors
+230,4074579,2023-11-05,Mjällby,Brommapojkarna
+231,4074572,2023-11-06,IFK Norrköping,Varbergs BoIS FC
+232,4074573,2023-11-06,IFK Göteborg,AIK
+233,4074586,2023-11-12,AIK,IFK Värnamo
+234,4074581,2023-11-12,Brommapojkarna,Häcken
+235,4074580,2023-11-12,Degerfors,Mjällby
+236,4074585,2023-11-12,Hammarby,Halmstads BK
+237,4074582,2023-11-12,Kalmar FF,Djurgården
+238,4074584,2023-11-12,Malmö FF,Elfsborg
+239,4074583,2023-11-12,Sirius,IFK Norrköping
+240,4074608,2023-11-12,Varbergs BoIS FC,IFK Göteborg
