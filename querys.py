@@ -22,7 +22,7 @@ delete_query = """
     DELETE FROM Games WHERE id > 32587;
 """
 
-delete_db = "DROP TABLE IF EXISTS Expected_Games;"
+delete_db = "DROP TABLE IF EXISTS Expected_Games"
 
 call_db(delete_db)
 

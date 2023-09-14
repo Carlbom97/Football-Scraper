@@ -135,6 +135,8 @@ query = """
         AGames VARCHAR(255),
         HomeTeam VARCHAR(255),
         AwayTeam VARCHAR(255),
+        HGoals int,
+        AGoals int,
         xHomePoss int,
         xAwayPoss int,
         xHomeShots int,
